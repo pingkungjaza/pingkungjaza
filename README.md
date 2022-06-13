@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pingkungjaza
-- 👀 I’m interested in Next React Node DotnetCore
+- 👀 I’m interested in Front-End Developer
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... ph.wittawat.p@gmail.com
+- 📫 Reach me on ph.wittawat.p@gmail.com
 
 <!---
 pingkungjaza/pingkungjaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
