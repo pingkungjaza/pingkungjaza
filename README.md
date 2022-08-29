@@ -3,10 +3,10 @@
 - 🌱 I’m currently in Next.js
 
 - 💼 Tech Stack as below
-- Front-End: ReactJS, NextJS, TypeScript
-- Back-End: NodeJS, NestJS, Dotnet(C#)
+- Front-End: ReactJS, NextJS, Angular, TypeScript
+- Back-End: NodeJS, NestJS, C#(ASP.NET CORE)
 - Data: SQL, Oracle, GraphQL, FireStore(NoSQL on Firebase)
-- Cloud: Google Cloud, Firebase
+- Cloud: Google Cloud, Microsoft Azure, Firebase
 - Infrastructure: Docker
 - Blockchain Infrastructure: WAX Blockchain
 
