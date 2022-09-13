@@ -7,7 +7,7 @@
 - Back-End: NodeJS, NestJS, C#(ASP.NET MVC, ASP.NET CORE)
 - Data: SQL, Oracle, GraphQL, FireStore(NoSQL on Firebase)
 - Cloud: Google Cloud, Microsoft Azure, Firebase
-- Infrastructure: Docker
+- Infrastructure: Docker, IIS
 - Blockchain Infrastructure: WAX Blockchain
 
 - 📫 Reach me on ph.wittawat.p@gmail.com
