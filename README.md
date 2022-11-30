@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wittawat -> @pingkungjaza
+- 👋 Hi, My name Wittawat
 
 - 🌱 I’m currently in Next.js
 
