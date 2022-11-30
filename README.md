@@ -1,6 +1,6 @@
 - 👋 Hi, My name Wittawat
 
-- 🌱 I’m currently in Next.js
+- 🌱 I’m currently in Full-Stack Developer
 
 - 💼 Tech Stack as below
 - Front-End: ReactJS, NextJS, VueJS, Angular, TypeScript
