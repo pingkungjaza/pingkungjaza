@@ -1,4 +1,4 @@
-- 👋 Hi, My name Wittawat
+- 👋 Hi, My name Wittawat Phumthong
 
 - 🌱 I’m currently in Full-Stack Developer
 
